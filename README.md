@@ -1,6 +1,6 @@
 # npmtest-lerna
 
-#### test coverage for  [lerna (v1.1.3)](https://github.com/sebmck/lerna#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-lerna.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-lerna) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-lerna.svg)](https://travis-ci.org/npmtest/node-npmtest-lerna)
+#### basic test coverage for  [lerna (v1.1.3)](https://github.com/sebmck/lerna#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-lerna.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-lerna) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-lerna.svg)](https://travis-ci.org/npmtest/node-npmtest-lerna)
 
 #### Tool for managing JavaScript projects with multiple packages
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-lerna/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-lerna/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-lerna/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-lerna/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-lerna/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-lerna/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-lerna/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-lerna/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-lerna/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-lerna/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-lerna/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-lerna/build/coverage.html/index.html)
 
